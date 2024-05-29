@@ -1,0 +1,38 @@
+{
+      "users": [
+            {
+                  "first_name": "doni",
+                  "last_name": "doniorov",
+                  "username": "bob123",
+                  "password": "1234",
+                  "status": "admin"
+            },
+            {
+                  "first_name": "sdfg",
+                  "last_name": "wert",
+                  "username": "12354aa",
+                  "password": "1234",
+                  "status": "user",
+                  "courses": ["Python", "Java"],
+                  "create_date": "2024-04-12 07:12:55.423567"
+            },
+            {
+                  "first_name": "sdsfgh",
+                  "last_name": "cvbn",
+                  "username": "bob",
+                  "password": "123",
+                  "status": "user",
+                  "courses": ["c#"],
+                  "create_date": "2024-04-12 08:00:18.342493"
+            },
+            {
+                  "first_name": "12354aa",
+                  "last_name": "1234",
+                  "username": "12354aa",
+                  "password": "1234",
+                  "status": "user",
+                  "courses": [],
+                  "create_date": "2024-04-16 21:59:14.379230"
+            }
+      ]
+}

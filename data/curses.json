@@ -1,0 +1,19 @@
+{
+  "courses":
+          [
+            {
+              "title": "Python",
+              "description": "This is Python course",
+              "price": 100,
+              "modules": 8,
+              "mintor": "Mustafo"
+            },
+            {
+              "title": "Java",
+              "description": "This is Java course",
+              "price": 100,
+              "modules": 9,
+              "mintor": "Alisher"
+            }
+          ]
+}

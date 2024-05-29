@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "first_name": "sdfg",
+            "last_name": "wert",
+            "username": "12354aa",
+            "password": "1234",
+            "status": "user",
+            "courses": [
+                "Python",
+                "Java"
+            ],
+            "last_update": "2024-04-12 07:12:55.423567",
+            "create_date": "2024-04-12 07:12:55.423567"
+        },
+        {
+            "first_name": "12354aa",
+            "last_name": "1234",
+            "username": "12354aa",
+            "password": "1234",
+            "status": "user",
+            "courses": [],
+            "last_update": "2024-04-12 07:12:55.423567",
+            "create_date": "2024-04-16 21:59:14.379230"
+        },
+        {
+            "first_name": "obid",
+            "last_name": "Boburuv",
+            "username": "bob",
+            "password": "123",
+            "status": "user",
+            "courses": [
+                "c#"
+            ],
+            "last_update": "2024-04-12 07:12:55.423567",
+            "create_date": "2024-04-12 08:00:18.342493"
+        },
+        {
+            "first_name": "mustafo",
+            "last_name": "aliyev",
+            "username": "ali123",
+            "password": "123456",
+            "status": "admin",
+            "last_update": "2024-04-19 17:10:52.971031",
+            "create_date": "2024-04-12 08:00:18.342493"
+        }
+    ]
+}
